@@ -1,0 +1,4 @@
+project = 'Skin Health Guide'
+author = 'FeelBe'
+extensions = []
+master_doc = 'index'
